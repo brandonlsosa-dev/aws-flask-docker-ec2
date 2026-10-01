@@ -1,0 +1,5 @@
+.git
+.env
+*.pem
+__pycache__/
+docs/
