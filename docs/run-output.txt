@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE       COMMAND                  CREATED          STATUS          PORTS                                   NAMES
+99887e41c4d4   flask-app   "gunicorn -b 0.0.0.0…"   29 minutes ago   Up 17 minutes   0.0.0.0:80->5000/tcp, :::80->5000/tcp   flask-app
+Hello from Flask in Docker v2
+{"status":"ok"}
